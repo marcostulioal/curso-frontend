@@ -23,10 +23,14 @@ Windows: https://git-scm.com/download/win
 ## Criar conta do GitHub
 
 ## Clonar o projeto
+git clone git@github.com:marcostulioal/curso-frontend.git
 
 ## Commits
 Informação de alteração
 - após testado todo seu código
+- git add *
+- git commit -m "mensagem"
+- git push (enviar alterações para o repositório)
 
 ## GitFlow
 Fluxo do Git 
