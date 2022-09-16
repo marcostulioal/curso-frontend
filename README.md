@@ -38,4 +38,7 @@ Fluxo do Git
 
 
 ### Branchs
-são ramificações
+são ramificações / versões paralelas
+
+- main / master
+- develop
