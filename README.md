@@ -49,5 +49,18 @@ são ramificações / versões paralelas
 git checkout -b dev (cria uma nova branch)
 git checkout master (muda de branch)
 
+
 ### Merge
 Mescla de branchs
+
+git merge master
+
+
+### Pull Requests
+Mescla de branchs no repositório
+Permite code review
+O repositório resolve os conflitos automaticamente
+
+### configura o GitFlow
+git flow init
+git flow feature start {nome-da-feature}
